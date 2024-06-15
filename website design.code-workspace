@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "website design",
+			"path": "..\\.."
+		},
+		{
+			"name": "donate the blood",
+			"path": "..\\..\\donate the blood"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website design"
+	}
+}
